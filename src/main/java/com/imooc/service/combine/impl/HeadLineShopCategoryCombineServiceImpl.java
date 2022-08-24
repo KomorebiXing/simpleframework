@@ -1,5 +1,6 @@
 package com.imooc.service.combine.impl;
 
+import com.imooc.controller.frontend.MainPageController;
 import com.imooc.entity.bo.HeadLine;
 import com.imooc.entity.bo.ShopCategory;
 import com.imooc.entity.dto.MainPageInfoDTO;
